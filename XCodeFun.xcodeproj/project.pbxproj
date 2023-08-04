@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		41068C372A7820E700B21AFA /* XCodeFun */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = XCodeFun; sourceTree = BUILT_PRODUCTS_DIR; };
-		41068C3A2A7820E700B21AFA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		41068C3A2A7820E700B21AFA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.cpp; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
